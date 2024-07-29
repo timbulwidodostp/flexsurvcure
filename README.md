@@ -1,6 +1,8 @@
 # flexsurvcure
 Flexible Parametric Survival Models with Cure Fraction for flexsurvreg Use flexsurvcure With (In) R Software
 
+https://www.youtube.com/watch?v=r53XXdCUmLE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
